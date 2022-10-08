@@ -20,4 +20,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekanshuj&layout=compact&theme=dark" width="400">
    <img src="https://github-readme-stats.vercel.app/api?username=ekanshuj&show_icons=true&theme=dark" width="480">
  </div>
+  <div margin-top="15px">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ekanshuj&repo=github-readme-stats&theme=dark" width="400">
+    </div>
 </div>
