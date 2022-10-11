@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   , I'm Ekanshu
 </h1>
- <div id="badges" margin-bottom="17px">
+ <div id="badges">
     <a href="https://linkedin.com/in/ekanshuj">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
