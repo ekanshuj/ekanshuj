@@ -10,13 +10,13 @@
 
 - 👨‍💻 All of my projects are available here.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ekanshuj" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ekanshuj" /></a>
 <a href="https://hashnode.com/@ekanshuj" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@ekanshuj" /></a>
 </p>
 
-<p align="left"><h3>Languages and Tools:</h3> [I've already worked with or will go around]</p>
+<p align="left"><h3>Languages and Tools :</h3> ● I've already worked with or will go around.</p>
 <p align="center"> 
   <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -40,4 +40,4 @@
 </p>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekanshuj&layout=compact&theme=dark" width="400">
- </div>
+</div>
