@@ -41,3 +41,15 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekanshuj&layout=compact&theme=dark" width="400">
 </div>
+
+<h3>Git :</h3>
+
+    git remote add origin <repository_url>
+    git remote set-url origin <repository_url>
+    git remote show origin
+    git clone <repository_url>
+    git checkout [<branch>]
+    git checkout -b|-B <new-branch> [<start-point>]
+    git branch
+    git branch -d <branch_name>
+    
