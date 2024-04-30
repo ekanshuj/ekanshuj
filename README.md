@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Ekanshu</h1>
 
-- 🌱 I’m currently learning **Animations [Framer, Rive], Networks, etc.**
+- 🌱 I’m currently studying Economics and exploring **Animations [Framer, Rive], Networks.**
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
@@ -16,7 +16,7 @@
 <a href="https://hashnode.com/@ekanshuj" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@ekanshuj" /></a>
 </p>
 
-<p align="left"><h3>Languages and Tools :</h3> ● I've already worked with or will go around.</p>
+<p align="left"><h3>Languages and Tools :</h3>The techs below are the ones that I've already worked with or am looking to add to my list.</p>
 <p align="center"> 
   <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
