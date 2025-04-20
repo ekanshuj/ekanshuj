@@ -2,21 +2,11 @@
   <img src="https://media.giphy.com/media/Y1nuY3lRUb62A/giphy.gif" width="350"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Ekanshu</h1>
-
-- 🌱 I’m currently studying Economics and exploring **Animations [Framer, Rive], Networks.**
-
-- 👯 I’m looking to collaborate on **open-source projects.**
-
-- 👨‍💻 All of my projects are available here.
-
-<h3 align="left">Connect with me :</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/ekanshuj" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ekanshuj" /></a>
 <a href="https://hashnode.com/@ekanshuj" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@ekanshuj" /></a>
 </p>
 
-<p align="left"><h3>Languages and Tools :</h3>The techs below are the ones that I've already worked with or am looking to add to my list.</p>
 <p align="center"> 
   <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -41,8 +31,6 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekanshuj&layout=compact&theme=dark" width="400">
 </div>
-
-<h3>Git :</h3>
 
     git remote add origin <repository_url>
     git remote set-url origin <repository_url>
