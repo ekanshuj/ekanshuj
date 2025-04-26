@@ -40,4 +40,5 @@
     git checkout -b|-B <new-branch> [<start-point>]
     git branch
     git branch -d <branch_name>
+    git reset  -- file-to-unstage
     
